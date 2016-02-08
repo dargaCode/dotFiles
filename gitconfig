@@ -1,0 +1,13 @@
+[filter "lfs"]
+	clean = git-lfs clean %f
+	smudge = git-lfs smudge %f
+	required = true
+[user]
+	email = darga.code@gmail.com
+	name = dargaCode
+[credential]
+	helper = osxkeychain
+[core]
+	editor = nano
+[push]
+	default = simple
