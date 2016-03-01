@@ -29,7 +29,7 @@
 	"predawn_sidebar_arrows": true,
 	"predawn_sidebar_large": true,
 	"predawn_sidebar_medium": false,
-	"predawn_sidebar_narrow": false,
+	"predawn_sidebar_narrow": true,
 	"predawn_sidebar_small": false,
 	"predawn_sidebar_xlarge": false,
 	"predawn_sidebar_xsmall": false,
@@ -46,4 +46,3 @@
 	"use_simple_full_screen": true,
 	"word_wrap": true
 }
-
