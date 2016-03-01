@@ -1,0 +1,49 @@
+{
+	"auto_complete_commit_on_tab": false,
+	"auto_complete_cycle": false,
+	"auto_complete_delay": 50,
+	"auto_find_in_selection": false,
+	"color_scheme": "Packages/Predawn/predawn.tmTheme",
+	"drag_text": false,
+	"enable_tab_scrolling": true,
+	"ensure_newline_at_eof_on_save": true,
+	"find_selected_text": true,
+	"font_size": 12,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_active"
+	],
+	"indent_subsequent_lines": true,
+	"indent_to_bracket": true,
+	"line_padding_bottom": 0,
+	"line_padding_top": 1,
+	"margin": 0,
+	"predawn_findreplace_small": true,
+	"predawn_quick_panel_small": true,
+	"predawn_sidebar_arrows": true,
+	"predawn_sidebar_large": true,
+	"predawn_sidebar_medium": false,
+	"predawn_sidebar_narrow": false,
+	"predawn_sidebar_small": false,
+	"predawn_sidebar_xlarge": false,
+	"predawn_sidebar_xsmall": false,
+	"predawn_tabs_active_underline": true,
+	"predawn_tabs_large": false,
+	"predawn_tabs_medium": true,
+	"predawn_tabs_small": false,
+	"shift_tab_unindent": true,
+	"show_full_path": true,
+	"tab_size": 2,
+	"theme": "predawn.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"use_simple_full_screen": true,
+	"word_wrap": true
+}
+
