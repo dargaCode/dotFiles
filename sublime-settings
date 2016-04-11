@@ -3,16 +3,18 @@
 	"auto_complete_cycle": false,
 	"auto_complete_delay": 50,
 	"auto_find_in_selection": false,
-	"color_scheme": "Packages/Predawn/predawn.tmTheme",
+	"color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
+	"color_scheme_": "Packages/Predawn/predawn.tmTheme",
 	"drag_text": false,
 	"enable_tab_scrolling": true,
 	"ensure_newline_at_eof_on_save": true,
 	"find_selected_text": true,
-	"font_size": 12,
+	"font_size": 11,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
+		"SideBarEnhancements",
 		"Vintage"
 	],
 	"indent_guide_options":
@@ -41,6 +43,7 @@
 	"show_full_path": true,
 	"tab_size": 2,
 	"theme": "predawn.sublime-theme",
+	"theme_": "Spacegray.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"use_simple_full_screen": true,
