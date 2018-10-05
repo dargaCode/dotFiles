@@ -7,3 +7,5 @@ alias hideinvis='echo Hiding invisible files; defaults write com.apple.finder Ap
 alias syncup='echo Running browsersync on localhost; browser-sync start --server --files ["*/*.*", “*/*/*.*”, “*/*/*/*.*”]  --open "" --browser "google chrome"'
 
 alias bashrefresh='echo Refreshing bash profile; source ~/.bash_profile'
+
+alias bashedit='echo Editing bash profile; nano ~/.bash_profile'
