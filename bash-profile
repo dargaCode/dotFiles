@@ -17,3 +17,5 @@ alias testit='npm run test'
 alias buildit='npm run build'
 alias deployit='npm run deploy'
 alias bookit='npm run storybook'
+
+echo "Bash profile updated"
