@@ -6,4 +6,4 @@ This is useful for sharing between personal and work machines.
 
 Requires creating a symlink between the original dotfile and the source-controlled version:
 
-`ln -sf ~/dotfiles/.bash-profile ~/.bash_profile; ln -sf ~/dotfiles/git-config ~/.gitconfig `
+`ln -sf ~/dotfiles/bash-profile ~/.bash_profile; ln -sf ~/dotfiles/git-config ~/.gitconfig `
