@@ -1,6 +1,6 @@
 
 echo "Downloading git-prompt script..."
-curl -s https://raw.githubusercontent.com/git/git/master/contrib/completion/git-prompt.sh -o ~/.git_prompt.sh
+curl -s https://raw.githubusercontent.com/git/git/master/contrib/completion/git-prompt.sh -o ~/.git-prompt.sh
 
 echo "Creating .bash_profile symlink..."
 ln -sf ~/dotfiles/bash-profile ~/.bash_profile
