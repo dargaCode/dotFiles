@@ -9,7 +9,7 @@ alias hidehidden='echo Hiding hidden files; defaults write com.apple.finder Appl
 alias syncup='echo Running browsersync on localhost; browser-sync start --server --files ["*/*.*", “*/*/*.*”, “*/*/*/*.*”]  --open "" --browser "google chrome"'
 
 alias bashedit='nano ~/.bash_profile'
-alias bashrefresh='echo Refreshing bash profile; source ~/.bash_profile'
+alias bashupdate='echo Updating bash profile; source ~/.bash_profile'
 
 alias startit='npm start'
 alias lintit='npm run lint'
