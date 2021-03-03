@@ -11,12 +11,13 @@ alias syncup='echo Running browsersync on localhost; browser-sync start --server
 alias bashedit='nano ~/.bash_profile'
 alias bashupdate='echo Updating bash profile; source ~/.bash_profile'
 
-alias startit='npm start'
-alias lintit='npm run lint'
-alias testit='npm run test'
 alias buildit='npm run build'
-alias deployit='npm run deploy'
+alias startit='npm start'
 alias bookit='npm run storybook'
 alias pushit='echo Pulling...; git pull origin develop; echo Pushing...; git push'
+
+alias lintit='npm run lint'
+alias testit='npm run test'
+alias deployit='npm run deploy'
 
 echo "Bash profile updated"
