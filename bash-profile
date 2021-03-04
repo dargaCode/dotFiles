@@ -16,7 +16,7 @@ alias startit='redivis assets'
 alias bookit='redivis storybook'
 alias pushit='echo Pulling...; git pull origin develop; echo Pushing...; git push'
 
-#alias lintit='npm run lint'
+alias lintit='redivis lint frontend'
 #alias testit='npm run test'
 #alias deployit='npm run deploy'
 
